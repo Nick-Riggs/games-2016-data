@@ -1,0 +1,5 @@
+The CSV files contains both scales and RX scores. The format of each file is:
+
+16.1 Score, 16.1 Division, 16.2 Score, 16.2 Division, 16.3 Score, 16.3 Division, 16.4 Score, 16.4 Division, 16.5 Score, 16.5 Division
+
+The data is not perfectly ordered by default.
